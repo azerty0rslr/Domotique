@@ -40,3 +40,10 @@ Architecture logicielle : les add-ons (permet d'intégrer des thèmes, des vues 
 Les 3 types de composants : 
 Différents types d'entités : sensor, binary sensor, light, switch, camera, cover (ouvrants)
 Sur home Asssistant possibilité de gestion des accès, de backup, de création de labs
+
+
+### TP
+- Rasperry
+- Capteur de porte
+- Zygbee
+Port 8143 pour la configuration
