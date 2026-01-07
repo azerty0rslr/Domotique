@@ -13,10 +13,13 @@ Aller dans paramètre puis dans Appareils et services :
 <img width="744" height="408" alt="image" src="https://github.com/user-attachments/assets/421dc4ae-d839-4a80-ac47-b1e38d489053" />  
 JSP :  
 <img width="701" height="455" alt="image" src="https://github.com/user-attachments/assets/e51fcb5e-1dd9-42b2-bb80-4772416a69b5" />  
+Il n'y a pas de modules complémentaires donc aller dans la boutique :  
+<img width="656" height="395" alt="image" src="https://github.com/user-attachments/assets/87867000-386c-4fb2-8407-b9e10c070d92" />
+Rechercher et ajouter Zigbee2MQTT :  
+<img width="782" height="371" alt="image" src="https://github.com/user-attachments/assets/5d7f6879-d721-4403-9b09-f13efdf030e0" />  
 Ajouter Mosquitto Broker :  
 <img width="593" height="338" alt="image" src="https://github.com/user-attachments/assets/a05f9999-6508-4f04-a500-09725295271c" />  
-Faire pareil pour ajouter Zigbee2MQTT :  
-<img width="782" height="371" alt="image" src="https://github.com/user-attachments/assets/5d7f6879-d721-4403-9b09-f13efdf030e0" />  
+
 Sur Zigbee2MQTT, activer l'appeirage pour connecter les différents outils :  
 <img width="321" height="415" alt="image" src="https://github.com/user-attachments/assets/554ecf7d-27ac-4649-94c5-73ed83d66542" />  
 Voilà :  
