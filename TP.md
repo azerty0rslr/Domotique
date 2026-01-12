@@ -20,9 +20,6 @@ Pour connecter les objets intelligent, nous configurons le protocole Zigbee grâ
 Aller dans paramètre puis dans Appareils et services :  
 <img width="744" height="408" alt="image" src="https://github.com/user-attachments/assets/421dc4ae-d839-4a80-ac47-b1e38d489053" />  
   
-JSP :  
-<img width="701" height="455" alt="image" src="https://github.com/user-attachments/assets/e51fcb5e-1dd9-42b2-bb80-4772416a69b5" />  
-  
 Il n'y a pas de modules complémentaires donc aller dans la boutique :  
 <img width="656" height="395" alt="image" src="https://github.com/user-attachments/assets/87867000-386c-4fb2-8407-b9e10c070d92" />  
   
