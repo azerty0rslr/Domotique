@@ -5,7 +5,8 @@ Sur Raspberry Pi Imager, nous installons le système d'exploitation.
 <img width="756" height="581" alt="image" src="https://github.com/user-attachments/assets/8cba55f4-70c2-4357-bef8-e7113ba0ba41" />  
 <img width="616" height="356" alt="image" src="https://github.com/user-attachments/assets/c9c0e0fc-91b6-4dcb-ab06-3fb0a50925fa" />  
 <img width="656" height="483" alt="image" src="https://github.com/user-attachments/assets/e296064f-96e0-43d9-a7f2-3764ab272e3d" />  
-  
+
+La carte est insérée et le Pi est alimenté on termine donc l'installation sur http://homeassistant.local:8123  
 Créer l'utilisateur :  
 <img width="393" height="403" alt="image" src="https://github.com/user-attachments/assets/7ffe6d2a-7f68-4e53-a778-d1074a97cb79" />  
   
