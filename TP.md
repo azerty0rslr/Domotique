@@ -15,7 +15,8 @@ Tout autoriser :
   
 Voici le premier rendu du home assistant :  
 <img width="780" height="291" alt="image" src="https://github.com/user-attachments/assets/f7e04ec8-c68b-4de3-b9bd-8975c2210542" />  
-  
+
+Pour connecter les objets intelligent, nous configurons le protocole Zigbee grâce à la documentation suivante : https://www.domo-blog.fr/installer-mqtt-zigbee2mqtt-home-assistant-en-mode-supervision-guide-domotique-all-inclusive/  
 Aller dans paramètre puis dans Appareils et services :  
 <img width="744" height="408" alt="image" src="https://github.com/user-attachments/assets/421dc4ae-d839-4a80-ac47-b1e38d489053" />  
   
