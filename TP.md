@@ -1,4 +1,5 @@
 # Configuration du Raspberry
+Sur Raspberry Pi Imager, nous installons le système d'exploitation.  
 <img width="806" height="599" alt="image" src="https://github.com/user-attachments/assets/7fe95c10-51f8-4d01-b6e3-0003fdcfe863" />  
 <img width="799" height="597" alt="image" src="https://github.com/user-attachments/assets/d7f5e60e-a29c-42ae-8e9e-8ebacd34ac85" />  
 <img width="756" height="581" alt="image" src="https://github.com/user-attachments/assets/8cba55f4-70c2-4357-bef8-e7113ba0ba41" />  
