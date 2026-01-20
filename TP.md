@@ -1,4 +1,5 @@
-# Configuration du Raspberry
+# Jour 1
+## Configuration du Raspberry
 Sur Raspberry Pi Imager, nous installons le système d'exploitation.  
 <img width="806" height="599" alt="image" src="https://github.com/user-attachments/assets/7fe95c10-51f8-4d01-b6e3-0003fdcfe863" />  
 <img width="799" height="597" alt="image" src="https://github.com/user-attachments/assets/d7f5e60e-a29c-42ae-8e9e-8ebacd34ac85" />  
@@ -48,3 +49,41 @@ Sur Zigbee2MQTT, activer l'appeirage pour connecter les différents outils :
   
 Voilà :  
 <img width="740" height="255" alt="image" src="https://github.com/user-attachments/assets/b8d493b0-843f-480c-b8aa-15e4ae1e5696" />  
+
+
+# Jour 2
+Après multiples complications, nous nous reconnectons sur Home Assistant en filaire via http://10.60.0.3:8123 :  
+<img width="1820" height="839" alt="image" src="https://github.com/user-attachments/assets/d082d23b-89ce-4997-9605-16c949ca742d" />  
+
+Ensuite on s'occupe de l'installation de HACS.  
+On va dans Paramètres -> Modules complementaires -> Boutique des modules complementaires puis on installe le module Terminal & SSH  
+Il ne s'agit pas de ce module. Erreur de notre part.  
+<img width="1452" height="543" alt="image" src="https://github.com/user-attachments/assets/be0a9f93-ae95-4f98-9375-49d6d3a6ff43" />  
+
+Mais si vous ne trouvez rien d'autre que lui aller sur le profil de l'utilisateur, descendre et activer le mode avancé.  
+<img width="1527" height="385" alt="image" src="https://github.com/user-attachments/assets/2928caab-2b72-40fd-9ed1-ea909e4fe80a" />  
+  
+Puis recommancer la recherche et installer CE terminal & SSH :  
+<img width="1428" height="546" alt="image" src="https://github.com/user-attachments/assets/a54ba49b-1525-46d4-8ed2-b0ce8cb8597f" />  
+  
+Une fois installé, le démarrer puis cliquer sur Ouvrir l’interface utilisateur web :  
+<img width="1266" height="337" alt="image" src="https://github.com/user-attachments/assets/ec200fc3-cc03-4881-8d7b-6f6c31dd6a63" />  
+  
+Puis copier coller ```wget -O - https://get.hacs.xyz | bash -```.  
+<img width="676" height="784" alt="image" src="https://github.com/user-attachments/assets/6dc36639-5f75-4546-b7e6-938125e1f57b" />  
+  
+Ensuite aller dans Outils de développement, faire Redémarrer puis Redémarrer Home Assistant.  
+<img width="1753" height="823" alt="image" src="https://github.com/user-attachments/assets/86f93fb5-f13b-42bc-82bd-1c752972d1f3" />  
+  
+Aller dans Paramètres -> Appareils et services, faire Ajouter une intégration, rechercher HACS et l'ajouter.  
+<img width="1507" height="836" alt="image" src="https://github.com/user-attachments/assets/a4fedac8-2c04-41c8-b1db-1fea93d3c532" />  
+  
+Tout cocher puis s'authentifier sur GitHub comme demandé :  
+<img width="715" height="508" alt="image" src="https://github.com/user-attachments/assets/cffcc0fe-2744-4d28-9e9a-dfd5cf7caf32" />  
+
+Autoriser HACS sur GitHub :  
+<img width="630" height="695" alt="image" src="https://github.com/user-attachments/assets/b6ec3565-6766-4390-9f70-3b0498bfa284" />  
+  
+Et voilà de cette manière, nous avons débloqué pleins d'intégrations via HACS :  
+<img width="1772" height="847" alt="image" src="https://github.com/user-attachments/assets/b8bdbcae-a89a-421b-a59d-ba94f8f1c9d4" />  
+
