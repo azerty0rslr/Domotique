@@ -87,3 +87,5 @@ Autoriser HACS sur GitHub :
 Et voilà de cette manière, nous avons débloqué pleins d'intégrations via HACS :  
 <img width="1772" height="847" alt="image" src="https://github.com/user-attachments/assets/b8bdbcae-a89a-421b-a59d-ba94f8f1c9d4" />  
 
+# Jour 3
+essayer de faire ça https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
