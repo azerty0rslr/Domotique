@@ -17,6 +17,7 @@ Tout autoriser :
 Voici le premier rendu du home assistant :  
 <img width="780" height="291" alt="image" src="https://github.com/user-attachments/assets/f7e04ec8-c68b-4de3-b9bd-8975c2210542" />  
 
+## Installation de modules complémentaires
 Pour connecter les objets intelligent, nous configurons le protocole Zigbee grâce à la documentation suivante : https://www.domo-blog.fr/installer-mqtt-zigbee2mqtt-home-assistant-en-mode-supervision-guide-domotique-all-inclusive/  
 Aller dans paramètre puis dans Appareils et services :  
 <img width="744" height="408" alt="image" src="https://github.com/user-attachments/assets/421dc4ae-d839-4a80-ac47-b1e38d489053" />  
@@ -26,14 +27,12 @@ Il n'y a pas de modules complémentaires donc aller dans la boutique :
   
 Rechercher et installer Zigbee2MQTT :  
 <img width="782" height="371" alt="image" src="https://github.com/user-attachments/assets/5d7f6879-d721-4403-9b09-f13efdf030e0" />  
-
   
 Rechercher le port :  
 <img width="366" height="285" alt="image" src="https://github.com/user-attachments/assets/dcac1a92-fc5b-478c-bee2-0153498cf143" />  
   
 Inscrire son nom de la manière suivante :  
 <img width="619" height="364" alt="image" src="https://github.com/user-attachments/assets/8a01b49a-6c57-4329-9e55-3680c81fcedb" />  
-
   
 Ajouter Mosquitto Broker :  
 <img width="593" height="338" alt="image" src="https://github.com/user-attachments/assets/a05f9999-6508-4f04-a500-09725295271c" />  
@@ -52,6 +51,7 @@ Voilà :
   
   
 # Jour 2
+## Installation de modules complémentaires - suite
 Après multiples complications, nous nous reconnectons sur Home Assistant en filaire via http://10.60.0.3:8123 :  
 <img width="1820" height="839" alt="image" src="https://github.com/user-attachments/assets/d082d23b-89ce-4997-9605-16c949ca742d" />  
 
