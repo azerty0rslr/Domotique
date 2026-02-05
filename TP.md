@@ -130,3 +130,14 @@ On peut désormais rajouter quelques cartes un peu plus esthétiques.
 ## Liaison de deux appareils
 Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
   
+### Création d'une liste déroulante de couleurs
+Aller dans Paramètres -> Appareils et services puis cliquer sur "Entrées" :  
+<img width="1334" height="142" alt="image" src="https://github.com/user-attachments/assets/c057a341-0a67-435c-8ac2-a89e0d60ac92" />  
+
+Faire créer une entrée et sélectionner "Liste déroulante" :  
+<img width="662" height="529" alt="image" src="https://github.com/user-attachments/assets/e9a09585-6896-43cb-bc2c-6a7ef11537b8" />  
+  
+Lui donner un nom, et faire "Ajouter" des noms de couleurs puis faire Créer :  
+<img width="651" height="863" alt="image" src="https://github.com/user-attachments/assets/e5a77043-0e4e-4cec-a19a-0d5ba1b58657" />  
+  
+### Automatiser le bouton et la LED
