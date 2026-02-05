@@ -152,4 +152,5 @@ Ajouter le bouton et le nombre de pressions nécessaires pour l'action, faire va
   
 Dans l'automatisation faire modifier en YAML dans les 3 petits points et entrer le code suivant :  
 <img width="711" height="676" alt="image" src="https://github.com/user-attachments/assets/a6092bc2-fb9c-4f14-a2f4-deabb0acd36b" />  
-
+  
+Faire enregistrer et normalement tout est fonctionnel.  
