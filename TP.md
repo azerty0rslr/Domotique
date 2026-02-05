@@ -150,6 +150,5 @@ Faire "Ajouter un déclencheur", aller dans Appareil :
 Ajouter le bouton et le nombre de pressions nécessaires pour l'action :  
 <img width="672" height="853" alt="image" src="https://github.com/user-attachments/assets/d7b0cccc-16dd-4bfd-909c-7d684abece36" />  
   
-Le modifier en YAML 
-
-
+Le modifier en YAML dans les 3 petits points et entrer le code suivant :  
+<img width="723" height="460" alt="image" src="https://github.com/user-attachments/assets/729a8479-b040-45f0-8802-674179b4c27b" />  
