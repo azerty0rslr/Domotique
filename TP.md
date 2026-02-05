@@ -49,8 +49,8 @@ Sur Zigbee2MQTT, activer l'appeirage pour connecter les différents outils :
   
 Voilà :  
 <img width="740" height="255" alt="image" src="https://github.com/user-attachments/assets/b8d493b0-843f-480c-b8aa-15e4ae1e5696" />  
-
-
+  
+  
 # Jour 2
 Après multiples complications, nous nous reconnectons sur Home Assistant en filaire via http://10.60.0.3:8123 :  
 <img width="1820" height="839" alt="image" src="https://github.com/user-attachments/assets/d082d23b-89ce-4997-9605-16c949ca742d" />  
@@ -87,6 +87,17 @@ Autoriser HACS sur GitHub :
 Et voilà de cette manière, nous avons débloqué pleins d'intégrations via HACS :  
 <img width="1772" height="847" alt="image" src="https://github.com/user-attachments/assets/b8bdbcae-a89a-421b-a59d-ba94f8f1c9d4" />  
 
+## Configuration d'une interface
+Aller dans Paramètres -> Tableau de bord  
+<img width="1508" height="902" alt="image" src="https://github.com/user-attachments/assets/039bb081-d677-40a2-83ce-f3b623c6c093" />  
+
+Faire "Ajouter un tableau de bord"  
+<img width="584" height="718" alt="image" src="https://github.com/user-attachments/assets/9b7be024-39c1-4df0-a85a-3497324620ca" />  
+
+Et voilà, plus qu'à ajouter les différentes sections :  
+<img width="1506" height="871" alt="image" src="https://github.com/user-attachments/assets/2dd87a66-ed7e-49cb-aec1-805835461175" />  
+
+  
 # Jour 3
 Nous avons suivi le tutoriel suivant pour lier différents appareils de domotique : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
   
