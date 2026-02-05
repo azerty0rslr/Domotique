@@ -99,5 +99,28 @@ Et voilà, plus qu'à ajouter les différentes sections :
 
   
 # Jour 3
+## Météo France 
+En suivant le readme de https://github.com/hacf-fr/lovelace-meteofrance-weather-card nous avons installé un module météo France :  
+<img width="1511" height="830" alt="image" src="https://github.com/user-attachments/assets/51983713-defd-48c8-9351-8a8cc6bb7915" />  
+
+Cliquer sur la carte qui s'affiche et faire Télécharger :  
+<img width="1486" height="805" alt="image" src="https://github.com/user-attachments/assets/b5d5b5fe-9c24-4f5c-8913-90cdd73456ed" />  
+  
+Aller dans Appareils et Services puis dans Hacs :  
+<img width="1470" height="861" alt="image" src="https://github.com/user-attachments/assets/cb9b70f1-f7de-435c-b0f1-a55cd6246a60" />  
+  
+Faire le petit crayon et s'assurer que "Activer service" est bien activé :  
+<img width="870" height="625" alt="image" src="https://github.com/user-attachments/assets/12c57146-9fdb-44ee-b55a-21b4427ec351" />  
+  
+Ensuite aller sur le tableau de bord, faire Ajouter au tableau de bord et sélectionner la carte personnalisé :  
+<img width="1503" height="902" alt="image" src="https://github.com/user-attachments/assets/4d8f540b-80cf-4971-837f-f3b8fae160a6" />  
+  
+Et voilà :  
+<img width="1478" height="873" alt="image" src="https://github.com/user-attachments/assets/50e47769-bea5-4bd0-851a-43a7ebc678da" />  
+
+
+
+
+
 Nous avons suivi le tutoriel suivant pour lier différents appareils de domotique : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
   
