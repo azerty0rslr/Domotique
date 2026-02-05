@@ -55,7 +55,7 @@ Voilà :
 Après multiples complications, nous nous reconnectons sur Home Assistant en filaire via http://10.60.0.3:8123 :  
 <img width="1820" height="839" alt="image" src="https://github.com/user-attachments/assets/d082d23b-89ce-4997-9605-16c949ca742d" />  
 
-Ensuite on s'occupe de l'installation de HACS.  
+Ensuite on s'occupe de l'installation de HACS grâce au tuto https://www.domo-blog.fr/comment-installer-hacs-home-assistant-store-integrations-custom-ha/.  
 On va dans Paramètres -> Modules complementaires -> Boutique des modules complementaires puis on installe le module Terminal & SSH  
 Il ne s'agit pas de ce module. Erreur de notre part.  
 <img width="1452" height="543" alt="image" src="https://github.com/user-attachments/assets/be0a9f93-ae95-4f98-9375-49d6d3a6ff43" />  
