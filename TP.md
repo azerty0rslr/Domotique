@@ -141,4 +141,15 @@ Lui donner un nom, et faire "Ajouter" des noms de couleurs puis faire Créer :
 <img width="651" height="863" alt="image" src="https://github.com/user-attachments/assets/e5a77043-0e4e-4cec-a19a-0d5ba1b58657" />  
   
 ### Automatiser le bouton et la LED
+Aller dans Paramètres -> Automatisation et scènes, faire créer une automatisation puis "Créer une nouvelle automatisation" :  
+<img width="850" height="856" alt="image" src="https://github.com/user-attachments/assets/7e5eb022-9a2e-4a95-981f-7d793206834f" />  
+  
+Faire "Ajouter un déclencheur", aller dans Appareil :  
+<img width="1329" height="900" alt="image" src="https://github.com/user-attachments/assets/ec4342b0-51fe-48a2-9473-df6ef39b6f1b" />  
+  
+Ajouter le bouton et le nombre de pressions nécessaires pour l'action :  
+<img width="672" height="853" alt="image" src="https://github.com/user-attachments/assets/d7b0cccc-16dd-4bfd-909c-7d684abece36" />  
+  
+Le modifier en YAML 
+
 
