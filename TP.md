@@ -88,6 +88,7 @@ Et voilà de cette manière, nous avons débloqué pleins d'intégrations via HA
 <img width="1772" height="847" alt="image" src="https://github.com/user-attachments/assets/b8bdbcae-a89a-421b-a59d-ba94f8f1c9d4" />  
 
 ## Configuration d'une interface
+Nous avons trouvé la documentation suivante https://www.hacf.fr/un-beau-dashboard-tout-simplement/#hacs-pour-aller-plus-loin pour configurer un beau dashboard, nous avons donc décidé de la suivre.  
 Aller dans Paramètres -> Tableau de bord  
 <img width="1508" height="902" alt="image" src="https://github.com/user-attachments/assets/039bb081-d677-40a2-83ce-f3b623c6c093" />  
 
@@ -117,10 +118,15 @@ Ensuite aller sur le tableau de bord, faire Ajouter au tableau de bord et sélec
   
 Et voilà :  
 <img width="1478" height="873" alt="image" src="https://github.com/user-attachments/assets/50e47769-bea5-4bd0-851a-43a7ebc678da" />  
+  
+## Mushroom
+Pour un peu plus d'esthétisme, nous avons décidé d'installer Mushroom à notre dashboard grâce à sa documentation https://github.com/piitaya/lovelace-mushroom.  
+Dans HACS, taper "Mushroom" et l'installer :  
+<img width="1496" height="914" alt="image" src="https://github.com/user-attachments/assets/573c4f61-e50f-4c87-a956-c3129b683b70" />  
+  
+On peut désormais rajouter quelques cartes un peu plus esthétiques.  
+<img width="481" height="172" alt="image" src="https://github.com/user-attachments/assets/68acb103-f2ca-487e-9f35-01c3f76a1006" />  
 
-
-
-
-
-Nous avons suivi le tutoriel suivant pour lier différents appareils de domotique : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
+## Liaison de deux appareils
+Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
   
