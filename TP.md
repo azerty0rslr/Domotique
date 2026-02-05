@@ -88,4 +88,5 @@ Et voilà de cette manière, nous avons débloqué pleins d'intégrations via HA
 <img width="1772" height="847" alt="image" src="https://github.com/user-attachments/assets/b8bdbcae-a89a-421b-a59d-ba94f8f1c9d4" />  
 
 # Jour 3
-essayer de faire ça https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
+Nous avons suivi le tutoriel suivant pour lié différents appareils de domotique : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
+  
