@@ -147,8 +147,9 @@ Aller dans Paramètres -> Automatisation et scènes, faire créer une automatisa
 Faire "Ajouter un déclencheur", aller dans Appareil :  
 <img width="1329" height="900" alt="image" src="https://github.com/user-attachments/assets/ec4342b0-51fe-48a2-9473-df6ef39b6f1b" />  
   
-Ajouter le bouton et le nombre de pressions nécessaires pour l'action :  
+Ajouter le bouton et le nombre de pressions nécessaires pour l'action, faire valider :  
 <img width="672" height="853" alt="image" src="https://github.com/user-attachments/assets/d7b0cccc-16dd-4bfd-909c-7d684abece36" />  
   
-Le modifier en YAML dans les 3 petits points et entrer le code suivant :  
-<img width="723" height="460" alt="image" src="https://github.com/user-attachments/assets/729a8479-b040-45f0-8802-674179b4c27b" />  
+Dans l'automatisation faire modifier en YAML dans les 3 petits points et entrer le code suivant :  
+<img width="711" height="676" alt="image" src="https://github.com/user-attachments/assets/a6092bc2-fb9c-4f14-a2f4-deabb0acd36b" />  
+
