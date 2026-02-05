@@ -100,7 +100,7 @@ Et voilà, plus qu'à ajouter les différentes sections :
   
 # Jour 3
 ## Météo France 
-En suivant le readme de https://github.com/hacf-fr/lovelace-meteofrance-weather-card nous avons installé un module météo France :  
+En suivant le readme de https://github.com/hacf-fr/lovelace-meteofrance-weather-card ainsi que le tuto d'installation de cartes personnalisées https://www.home-assistant.io/dashboards/cards/ nous avons installé un module météo France :  
 <img width="1511" height="830" alt="image" src="https://github.com/user-attachments/assets/51983713-defd-48c8-9351-8a8cc6bb7915" />  
 
 Cliquer sur la carte qui s'affiche et faire Télécharger :  
