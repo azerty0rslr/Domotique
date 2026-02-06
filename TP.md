@@ -162,3 +162,10 @@ Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED et éte
 Aller dans Paramètres -> Automatisation et scènes, faire créer une automatisation puis "Créer une nouvelle automatisation" :  
 <img width="850" height="856" alt="image" src="https://github.com/user-attachments/assets/7e5eb022-9a2e-4a95-981f-7d793206834f" />  
 
+Faire "Ajouter un déclencheur", aller dans Appareil :  
+<img width="1329" height="900" alt="image" src="https://github.com/user-attachments/assets/ec4342b0-51fe-48a2-9473-df6ef39b6f1b" />  
+  
+Ajouter le bouton et le nombre de pressions nécessaires pour l'action, faire valider :  
+<img width="672" height="853" alt="image" src="https://github.com/user-attachments/assets/d7b0cccc-16dd-4bfd-909c-7d684abece36" />  
+
+Faire de même pour l'action, ajouter la LED et le fait qu'elle s'allume/s'éteigne.  
