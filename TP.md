@@ -128,7 +128,7 @@ On peut désormais rajouter quelques cartes un peu plus esthétiques.
 <img width="481" height="172" alt="image" src="https://github.com/user-attachments/assets/68acb103-f2ca-487e-9f35-01c3f76a1006" />  
 
 ## Liaison de deux appareils
-Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
+Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED et changer les couleurs en cliquant sur le bouton : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
   
 ### Création d'une liste déroulante de couleurs
 Aller dans Paramètres -> Appareils et services puis cliquer sur "Entrées" :  
@@ -154,3 +154,11 @@ Dans l'automatisation faire modifier en YAML dans les 3 petits points et entrer 
 <img width="711" height="676" alt="image" src="https://github.com/user-attachments/assets/a6092bc2-fb9c-4f14-a2f4-deabb0acd36b" />  
   
 Faire enregistrer et tout est fonctionnel.  
+
+# Jour 4
+## Liaison de deux appareils
+Nous avons suivi le tutoriel suivant pour lier le bouton à la bande LED et éteindre/allumer la bande LED en double cliquant : https://rdr-it.com/domotique/home-assistant-changer-la-couleur-dampoule-avec-un-bouton-connecte/.  
+
+Aller dans Paramètres -> Automatisation et scènes, faire créer une automatisation puis "Créer une nouvelle automatisation" :  
+<img width="850" height="856" alt="image" src="https://github.com/user-attachments/assets/7e5eb022-9a2e-4a95-981f-7d793206834f" />  
+
