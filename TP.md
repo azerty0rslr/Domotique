@@ -168,4 +168,4 @@ Faire "Ajouter un déclencheur", aller dans Appareil :
 Ajouter le bouton et le nombre de pressions nécessaires pour l'action, faire valider :  
 <img width="672" height="853" alt="image" src="https://github.com/user-attachments/assets/d7b0cccc-16dd-4bfd-909c-7d684abece36" />  
 
-Faire de même pour l'action, ajouter la LED et le fait qu'elle s'allume/s'éteigne.  
+Faire de même pour la section "Alors faire", ajouter la LED et le fait qu'elle s'allume/s'éteigne.  
